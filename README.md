@@ -14,7 +14,7 @@ This project predicts fraudulent credit card transactions and provides full expl
 ---
 
 ## 🎬 Demo
-![Dashboard Demo](assets/dashboard_demo.gif)  
+[![Dashboard Demo](assets/dashboard_demo.gif) ](https://fraud-detection-f5495m9zigrh233l9hmqeu.streamlit.app) 
 *Interactive fraud detection dashboard (Streamlit).*
 
 ---
