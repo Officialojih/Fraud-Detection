@@ -1,0 +1,28 @@
+# Core
+pandas
+numpy
+scikit-learn==1.7.2
+imbalanced-learn
+xgboost
+lightgbm
+streamlit-shap
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Explainability
+shap
+
+# App / Dashboard
+streamlit
+
+# Utilities
+joblib
+tqdm
+skops
+
+# Optional but recommended for notebooks
+jupyter
+ipykernel
